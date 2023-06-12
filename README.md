@@ -1,2 +1,2 @@
 # Pay-Mall-Project
-the master branch is mall module
+the master branch is mall module.
